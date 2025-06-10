@@ -117,3 +117,7 @@ Though not building an actual AST (Abstract Syntax Tree), the algorithm follows 
 Hands-On with Operator Algorithms:
 Learn algorithmic implementation of mathematical logic often embedded in parsing engines.
 
+Output
+
+![Image](https://github.com/user-attachments/assets/1fa144ee-975a-4d50-a24b-a51cbd63b210)
+
